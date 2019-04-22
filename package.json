@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liri bot",
+  "main": "keys.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "inquirer": "^6.3.1",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androosk/liri-node-app.git"
+  },
+  "author": "Andrew Tirpok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/androosk/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/androosk/liri-node-app#readme"
+}
