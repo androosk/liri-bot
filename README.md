@@ -7,6 +7,7 @@ Language Interpretation and Recognition Interface. This is a console based Node.
 - Bandsintown
 
 # NPM Dependencies
+- on command line run npm init
 - dotenv - to protect API assets
 - node-spotify-api - to get information from Spotify
 - axios - to get information from OMDB and Bandsintown
