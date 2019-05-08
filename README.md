@@ -8,7 +8,7 @@ Language Interpretation and Recognition Interface. This is a console based Node.
 
 # NPM Dependencies
 - on command line run npm init
-- dotenv - to protect API assets
+- dotenv - to protect API assets - Make sure to create your own file with your own API keys
 - node-spotify-api - to get information from Spotify
 - axios - to get information from OMDB and Bandsintown
 - moment - to format date for Bandsintown query
